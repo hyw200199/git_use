@@ -1,0 +1,2 @@
+第一次使用git
+用git add命令把这个readme.txt放到git仓库里面
